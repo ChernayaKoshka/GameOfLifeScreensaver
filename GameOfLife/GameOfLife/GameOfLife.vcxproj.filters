@@ -20,12 +20,39 @@
     <ClCompile Include="life.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="immigration_life.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="rainbow_life.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="life_generic.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="math_custom.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="life.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="immigration_life.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="screensaver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GlobalOptions.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="rainbow_life.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="life_generic.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
